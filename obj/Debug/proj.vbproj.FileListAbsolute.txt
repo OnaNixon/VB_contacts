@@ -1,0 +1,12 @@
+C:\Users\ENGINEER  KOWERO\source\repos\proj\bin\Debug\proj.exe.config
+C:\Users\ENGINEER  KOWERO\source\repos\proj\bin\Debug\proj.exe
+C:\Users\ENGINEER  KOWERO\source\repos\proj\bin\Debug\proj.pdb
+C:\Users\ENGINEER  KOWERO\source\repos\proj\bin\Debug\proj.xml
+C:\Users\ENGINEER  KOWERO\source\repos\proj\obj\Debug\proj.vbprojAssemblyReference.cache
+C:\Users\ENGINEER  KOWERO\source\repos\proj\obj\Debug\proj.Resources.resources
+C:\Users\ENGINEER  KOWERO\source\repos\proj\obj\Debug\proj.vbproj.GenerateResource.cache
+C:\Users\ENGINEER  KOWERO\source\repos\proj\obj\Debug\proj.vbproj.CoreCompileInputs.cache
+C:\Users\ENGINEER  KOWERO\source\repos\proj\obj\Debug\proj.exe
+C:\Users\ENGINEER  KOWERO\source\repos\proj\obj\Debug\proj.xml
+C:\Users\ENGINEER  KOWERO\source\repos\proj\obj\Debug\proj.pdb
+C:\Users\ENGINEER  KOWERO\source\repos\proj\obj\Debug\proj.Form1.resources
